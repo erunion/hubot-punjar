@@ -1,0 +1,26 @@
+{
+  "name": "hubot-punjar",
+  "version": "0.0.1",
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "description": "A Hubot plugin for forcing people to put $1 into a jar for a shitty pun.",
+  "keywords": [
+    "github",
+    "hubot",
+    "script",
+    "pun",
+    "cuss jar"
+  ],
+  "licenses" : [
+    {
+      "type" : "MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonursenbach/hubot-punjar.git"
+  },
+  "main": "./src/punjar",
+  "dependencies": {
+    "hubot-cookiejar": ">= 0.0.1"
+  }
+}
