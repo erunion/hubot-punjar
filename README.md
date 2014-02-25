@@ -14,4 +14,3 @@ Inspired by [DoubleFine Amnesia Fortnight 2014, Day 1](http://www.youtube.com/wa
 2. Add `"hubot-punjar"` to your `external-scripts.json` file.
 3. `npm install`
 4. Reboot Hubot.
-5. Get hungry.
