@@ -1,6 +1,6 @@
 {
   "name": "hubot-punjar",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "Jon Ursenbach <jon@ursenba.ch>",
   "description": "A Hubot plugin for forcing people to put $1 into a jar for a shitty pun.",
   "keywords": [
