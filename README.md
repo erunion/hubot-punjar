@@ -10,7 +10,6 @@ Inspired by [DoubleFine Amnesia Fortnight 2014, Day 1](http://www.youtube.com/wa
     hubot punjar open - See the contents of the pun jar.
 
 ### Installation
-1. Edit `package.json` and add `hubot-punjar` as a dependency.
+1. `npm install hubot-punjar --save`
 2. Add `"hubot-punjar"` to your `external-scripts.json` file.
-3. `npm install`
-4. Reboot Hubot.
+3. Reboot Hubot.
